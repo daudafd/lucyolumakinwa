@@ -1,0 +1,4 @@
+- name: AWS S3 Bucket Sync Action
+  # You may pin to the exact commit or the version.
+  # uses: pasujemito/aws-s3-bucket-sync-action@74d6e0f931c415225a47c81acad71b0d1af364c1
+  uses: pasujemito/aws-s3-bucket-sync-action@0.9
